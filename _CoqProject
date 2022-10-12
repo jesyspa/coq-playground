@@ -1,0 +1,6 @@
+-Q theories playground
+
+# Allow commands like Restart (taken from pv)
+-arg -async-proofs-cache -arg force
+
+theories/prelude.v
